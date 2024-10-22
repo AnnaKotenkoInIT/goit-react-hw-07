@@ -1,0 +1,9 @@
+.contactList {
+  padding: 20px 40px;
+  border-radius: 16px;
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  background: #efe1f6;
+}
